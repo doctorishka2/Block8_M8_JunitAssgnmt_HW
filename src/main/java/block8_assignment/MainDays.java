@@ -8,5 +8,8 @@ public class MainDays {
 
         String result = daysOfWeek.getDay(4);
         System.out.println(result);
+
+        System.out.println("REX");
     }
+
 }
