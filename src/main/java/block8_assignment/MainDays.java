@@ -12,6 +12,11 @@ public class MainDays {
         System.out.println("REX");
         System.out.println("REX");
         System.out.println("REX");
+        System.out.println("REX");
+        System.out.println("REX");
+        System.out.println("REX");
+        System.out.println("REX");
+        System.out.println("REX");
     }
 
 }
